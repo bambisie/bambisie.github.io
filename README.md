@@ -1,1 +1,5 @@
-Example site modified from https://github.com/gohugoio/hugoBasicExample
+# Tammy's Site
+
+```bash
+hugo server --disableFastRender
+```
