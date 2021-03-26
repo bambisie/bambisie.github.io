@@ -36,6 +36,9 @@ params:
     sidebar:
         emoji: 
         subtitle: Hello, I'm Tammy.
+        avatar:
+            local: true
+            src: img/avatar.jpg
 
     article:
         math: false
