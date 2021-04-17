@@ -1,12 +1,11 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
+description: Zoology graduate & mature vet student to be!
 date: '2019-02-28'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
 lastmod: '2020-10-09'
 menu:
     main: 
@@ -14,20 +13,16 @@ menu:
         pre: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+Hey, chicos and chicas!  My name is Tammy and I want to be a vet. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I graduated from the University of Southampton with a BSc Honours Zoology (1:1) degree in 2020 and I am currently applying to a number of Vet Schools in different European countries. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+My blog I going to give you a glimpse of a mature student's life trying to make it to vet school. 
+Fingers crossed that I can manage to secure a place so that in the future you can read about my expiriences of my non-traditional vet student journey. 
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Feel free to contact me if you are looking to apply abroad - I have done me research :) 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+instagram: @tammybambii
+email: bambisie1997@gmail.com
