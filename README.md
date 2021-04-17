@@ -1,5 +1,5 @@
 # Tammy's Site
-
+Open terminal `Terminal > New Terminal`.
 ```bash
 hugo server --disableFastRender
 ```
